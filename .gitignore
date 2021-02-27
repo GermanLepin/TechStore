@@ -1,0 +1,10 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.psycopg2
+db.psycopg2-journal
+/media
+/static
+
